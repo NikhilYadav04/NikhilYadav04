@@ -7,7 +7,7 @@
 ### 💙 I build Android apps using **Flutter**  
 ### 🔧 I develop backends using **Node.js** and **Firebase**  
 ### 📫 Reach me at: **byadav1723@gmail.com**  
-### 📄 [My Resume](#)
+### 📄 My Resume : [My Resume](#)
 
 
 # 🌐 Socials:
