@@ -10,7 +10,7 @@
 ### 📄 [My Resume](#)
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nikhil-yadav-1a14062a2/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:byadav1723@gmail.com) 
 
 # 💻 Tech Stack:
