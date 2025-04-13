@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I’m Nikhil Yadav <br><br>I’m a passionate App & Backend Developer based in India.<br><br>💙 I build Android apps using Flutter<br>🔧 I develop backends using Node.js and Firebase<br>📫 Reach me at : byadav1723@gmail.com<br>📄 My Resume
+# 💫 👋 Hi, I’m Nikhil Yadav:
+<br><br>I’m a passionate App & Backend Developer based in India.<br><br>💙 I build Android apps using Flutter<br>🔧 I develop backends using Node.js and Firebase<br>📫 Reach me at : byadav1723@gmail.com<br>📄 My Resume
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nikhil-yadav-1a14062a2/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:byadav1723@gmail.com) 
